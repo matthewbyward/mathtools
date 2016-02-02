@@ -16,5 +16,6 @@ Supported Group Operations
 * Addition: "+"
 
 Sample
+
     cayley.py u 10 x
     cayley.py z 4 +
