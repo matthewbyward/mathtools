@@ -1,4 +1,5 @@
 #Cayley Table Generator
+## Requires Python 2.7.x
 
 A simple python program that generates cayley tables based on group type, group size, and
 operator.
@@ -17,5 +18,5 @@ Supported Group Operations
 
 Sample
 
-    cayley.py u 10 x
-    cayley.py z 4 +
+    python cayley.py u 10 x
+    python cayley.py z 4 +
